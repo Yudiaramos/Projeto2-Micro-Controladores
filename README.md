@@ -19,7 +19,7 @@ Desenvolvimento de um projeto em linguagem C para PIC18F que explore os seguinte
 
 ### Projeto2.simu
 
-Aqui foi projetado o circuito s ser simulado do PIC18F. Foi utilizado dois botões, 3 resistores (1k, 1k e 150) e o display para simular o projeto. As entradas são mostradas abaixo:
+Aqui foi projetado o circuito s ser simulado do PIC18F. Foi utilizado dois botões, 3 resistores (1k, 1k e 150), sendo o de 150 ohms de tipo dip, e o display para simular o projeto. As entradas são mostradas abaixo:
 
 ![image](https://github.com/Yudiaramos/Projeto2-Micro-Controladores/assets/71808184/b11feef5-0eb8-419e-89f6-5f0280b606ae)
 
