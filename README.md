@@ -1,4 +1,4 @@
-# Projeto2-Micro-Controladores
+# Projeto2 Microcontroladores
 
 ## Objetivo da prática:
 
