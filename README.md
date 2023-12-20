@@ -38,3 +38,8 @@ O código de nome "projeto2.hex" possui o "script" que controlará as entrada do
 2. Clicar botão direito do mouse no PIC18F
 3. selecionar "Carregar firmare"
 4. selecionar o arquivo "Projeto2.hex
+
+
+## Funcionamento:
+
+Ao rodar o código, podemos clicar dois botões, ao clicar o botão 1 (de cima), temos a contagem do segmento de 0 a 9 com delay de 1000ms. Ao clicar o botão 2 (de baixo) temos a contagem do segmento com delay de 250ms.
